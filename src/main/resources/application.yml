@@ -1,0 +1,10 @@
+server:
+  port: 8886
+
+ding:
+  webhook: https://oapi.dingtalk.com/robot/send?access_token=f7f9ca4787265e6072d*****************************ce19fea6
+  secret: SEC*************************************2d62270
+  keyword: 告警查收
+
+
+
